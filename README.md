@@ -1,4 +1,4 @@
 <div align="center">
 <h1 align="center">Hola, soy Juanjo 👋</h1>
 </div>
-<img src="image/imagenGithub.png">
+<img src="image/imagenGithub.png" height= 400, width=1100>
