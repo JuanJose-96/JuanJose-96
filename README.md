@@ -12,6 +12,12 @@
 
 ## Proyectos destacados
 
+|***API REST Gestor de Usuarios (En curso)***|
+|:---:|
+| CRUD de gestión de usuarios con autenticación JWT + <br> Postman + Swagger/OpenAPI) |
+| [![Repo](https://img.shields.io/badge/GitHub-Repo-green?logo=github)](https://github.com/JuanJose-96/api-GestorDeUsuarios.git) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
