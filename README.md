@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- 💻 Desarrollador Web junior / Web Junior Developer
+- 💻 Desarrollador junior / Junior Developer
 - 🧑‍🎓 Actualmente estoy terminando mis estudios de Desarrollo de Aplicaciones Multiplataforma (2024-2026)
 - 🤓 Always learning new things
 - ⏩ In search of new challenges
